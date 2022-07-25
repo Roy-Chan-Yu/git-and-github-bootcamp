@@ -3,4 +3,5 @@ Banana
 Cherry
 Amadeus
 The Fifth Element
-Captain | Merging PR With Conflicts Fantastic
+<<<<<<< HEAD
+Merging PR With Conflicts Fantastic changed by others  Fantastic
